@@ -1,0 +1,15 @@
+.rpt2_cache*
+logs
+*.log
+pids
+*.pid
+*.seed
+.lock-wscript
+node_modules
+tags
+.tags*
+/*.sh
+package-lock.json
+*.js
+*.map
+dist

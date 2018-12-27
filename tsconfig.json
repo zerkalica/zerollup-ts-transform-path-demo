@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "client/*": ["./*"]
+    },
+    "plugins": [{ "transform": "@zerollup/ts-transform-paths" }]
+  }
+}
