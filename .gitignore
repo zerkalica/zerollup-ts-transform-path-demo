@@ -10,6 +10,3 @@ tags
 .tags*
 /*.sh
 package-lock.json
-*.js
-*.map
-dist
